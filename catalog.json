@@ -287,9 +287,22 @@
       "status" : "active",
       "suggestedMaxPrice" : 14.99,
       "tcin" : "1013166573"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-94300082",
+      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_21d936ca-daf6-49c9-aa33-e0213ed1d004",
+      "kind" : "Three-Booster Blister",
+      "name" : "Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan",
+      "notes" : "Sold through a drawing on Target's page (sign-in required). You enter there; auto-cart doesn't apply.",
+      "retailer" : "target",
+      "set" : "Scarlet & Violet: Destined Rivals",
+      "status" : "active",
+      "suggestedMaxPrice" : 14.99,
+      "tcin" : "94300082"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T09:06:17Z",
-  "version" : 9
+  "updatedAt" : "2026-11-08T09:10:18Z",
+  "version" : 10
 }
