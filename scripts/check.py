@@ -11,6 +11,7 @@ from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PublicKey
 from cryptography.exceptions import InvalidSignature
 
 HOSTS = {"target": ["target.com"], "walmart": ["walmart.com"], "pokemonCenter": ["pokemoncenter.com"]}
+IMAGE_HOSTS = {"target": ["target.scene7.com", "target.com"], "walmart": ["walmartimages.com", "walmart.com"], "pokemonCenter": ["pokemoncenter.com"]}
 errors = []
 
 def fail(msg): errors.append(msg)
@@ -56,6 +57,12 @@ for e in catalog.get("entries", []):
     if parsed.scheme != "https" or not any(host == h or host.endswith("." + h) for h in HOSTS[retailer]):
         bad("link must be https on the retailer's own domain")
     if e.get("status") not in ("active", "retired"): bad("status must be active or retired")
+    image = e.get("imageURL")
+    if image is not None:
+        ip = urlparse(image)
+        ihost = (ip.hostname or "").lower()
+        if ip.scheme != "https" or ip.query or ip.fragment or not any(ihost == h or ihost.endswith("." + h) for h in IMAGE_HOSTS[retailer]):
+            bad("imageURL must be a plain https link on the retailer's own image server")
     key = (retailer, ("A-" + tcin) if tcin else (url or "").lower())
     if key in products: bad("the same product is listed twice")
     products.add(key)
