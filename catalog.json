@@ -30,7 +30,6 @@
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_e3f41174-8c2d-420c-b59a-2a40857a89b0",
       "kind" : "Binder Collection",
       "name" : "30th Celebration Binder Collection",
-      "notes" : "When checked on 2026-11-07 the page showed Add to cart (no out-of-stock label).",
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
@@ -259,7 +258,6 @@
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_4a710abd-408e-430b-b6a8-45dfc7811a2c",
       "kind" : "Pin Collection",
       "name" : "Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection",
-      "notes" : "When checked on 2026-11-07 the page showed Add to cart (no out-of-stock label).",
       "retailer" : "target",
       "set" : "Mega Evolution: Ascended Heroes",
       "status" : "active",
@@ -401,6 +399,6 @@
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T03:58:30Z",
-  "version" : 7
+  "updatedAt" : "2026-11-08T04:11:47Z",
+  "version" : 8
 }
