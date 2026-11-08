@@ -255,18 +255,6 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-95163305",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_1db01b00-c606-407b-a162-10e3939c1e73",
-      "kind" : "ex Box",
-      "name" : "Mega Evolution—Ascended Heroes Mega Meganium ex Box",
-      "notes" : "Price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "tcin" : "95163305"
-    },
-    {
-      "addedAt" : "2026-11-08",
       "id" : "target-95093989",
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_4a710abd-408e-430b-b6a8-45dfc7811a2c",
       "kind" : "Pin Collection",
@@ -303,54 +291,6 @@
       "status" : "active",
       "suggestedMaxPrice" : 19.99,
       "tcin" : "95120822"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1012644667",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_bcb2529f-51fb-4b09-88a0-a1bcc00ee5d2",
-      "kind" : "Tin",
-      "name" : "Mega Evolution— Ascended Heroes Tin Mega Emboar ex",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "tcin" : "1012644667"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1012644666",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_9e3e1626-502a-42d0-b3eb-e8901ae0d162",
-      "kind" : "Tin",
-      "name" : "Mega Evolution— Ascended Heroes Tin Mega Feraligatr ex",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "tcin" : "1012644666"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1012644665",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_d4830c25-748f-4052-ac1e-f87293a37d7c",
-      "kind" : "Tin",
-      "name" : "Mega Evolution— Ascended Heroes Tin Mega Meganium ex",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "tcin" : "1012644665"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-95298172",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_de896676-8332-46bd-b36f-d863b43df7ad",
-      "kind" : "Booster Bundle",
-      "name" : "Mega Evolution Chaos Rising Booster Bundle",
-      "notes" : "Price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Chaos Rising",
-      "status" : "active",
-      "tcin" : "95298172"
     },
     {
       "addedAt" : "2026-11-08",
@@ -402,18 +342,6 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-95230445",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_13562999-69e3-4c1a-9273-e06a89a04a7a",
-      "kind" : "Elite Trainer Box",
-      "name" : "Mega Evolution Perfect Order Elite Trainer Box",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Perfect Order",
-      "status" : "active",
-      "tcin" : "95230445"
-    },
-    {
-      "addedAt" : "2026-11-08",
       "id" : "target-95230446",
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_709d00c5-cb92-4ec6-a04d-14990c148131",
       "kind" : "Three-Booster Blister",
@@ -438,30 +366,6 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1011483413",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_277c0cd5-9414-4ec6-a94e-72a551d3dcdc",
-      "kind" : "Booster Display",
-      "name" : "Mega Evolution Pitch Black Booster Display",
-      "notes" : "Price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Pitch Black",
-      "status" : "active",
-      "tcin" : "1011483413"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1011483406",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_a21f87e0-c6a8-48f4-bb66-2e4c626562d6",
-      "kind" : "Elite Trainer Box",
-      "name" : "Mega Evolution Pitch Black Elite Trainer Box",
-      "notes" : "Price not read yet.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Pitch Black",
-      "status" : "active",
-      "tcin" : "1011483406"
-    },
-    {
-      "addedAt" : "2026-11-08",
       "id" : "target-94300082",
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_21d936ca-daf6-49c9-aa33-e0213ed1d004",
       "kind" : "Three-Booster Blister",
@@ -472,18 +376,6 @@
       "status" : "active",
       "suggestedMaxPrice" : 14.99,
       "tcin" : "94300082"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1012055696",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_e9b070dc-a9b9-4cf1-a8f0-0b01963959da",
-      "kind" : "Super Premium Collection",
-      "name" : "Prismatic Evolutions Super Premium Collection",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "set" : "Scarlet & Violet: Prismatic Evolutions",
-      "status" : "active",
-      "tcin" : "1012055696"
     },
     {
       "addedAt" : "2026-11-08",
@@ -506,20 +398,9 @@
       "status" : "active",
       "suggestedMaxPrice" : 34.99,
       "tcin" : "94411686"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-95138474",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_a1f8e911-79dd-42fd-b002-3ed5ef35a58c",
-      "kind" : "Tin",
-      "name" : "Mega Charizard Y Tin",
-      "notes" : "Name taken from the link; page and price not read yet.",
-      "retailer" : "target",
-      "status" : "active",
-      "tcin" : "95138474"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T03:47:55Z",
-  "version" : 6
+  "updatedAt" : "2026-11-08T03:58:30Z",
+  "version" : 7
 }
