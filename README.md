@@ -8,7 +8,7 @@ The product list the PokeWatch app downloads. It's a static file, so there is no
 | `catalog.signed.json` | What the app downloads: `catalog.json` plus an Ed25519 signature. **Generated. Don't edit it.** |
 | `public-key.txt` | The public key the app trusts (CI uses it too). |
 | `scripts/check.py` | CI check: signature valid, file matches, links are on the retailer's own domain. |
-| `ci/check.yml` | Optional GitHub Actions workflow that runs the check on every push. Copy it to `.github/workflows/check.yml` to enable it (GitHub needs the `workflow` permission to accept that file). You can also run `python3 scripts/check.py` yourself. |
+| `.github/workflows/check.yml` | Runs the check automatically on every push (see the Actions tab). You can also run `python3 scripts/check.py` yourself. |
 
 ## Adding or changing items
 
