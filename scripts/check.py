@@ -36,6 +36,7 @@ catalog = json.loads(source)
 if catalog.get("schema") != 1: fail("schema must be 1")
 if not isinstance(catalog.get("version"), int) or catalog["version"] < 1: fail("version must be a positive integer")
 ids = set()
+products = set()
 for e in catalog.get("entries", []):
     eid = e.get("id", "")
     def bad(why): fail(f"{eid or '(no id)'}: {why}")
@@ -55,6 +56,9 @@ for e in catalog.get("entries", []):
     if parsed.scheme != "https" or not any(host == h or host.endswith("." + h) for h in HOSTS[retailer]):
         bad("link must be https on the retailer's own domain")
     if e.get("status") not in ("active", "retired"): bad("status must be active or retired")
+    key = (retailer, ("A-" + tcin) if tcin else (url or "").lower())
+    if key in products: bad("the same product is listed twice")
+    products.add(key)
 
 if errors:
     print("Catalog check failed:")

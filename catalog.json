@@ -2,36 +2,92 @@
   "entries" : [
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1012850570",
-      "kind" : "Ultra-Premium Collection",
-      "name" : "30th Celebration Ultra-Premium Collection- Day",
+      "id" : "target-1010892075",
+      "kind" : "Battle Deck",
+      "name" : "30th Celebration Battle Deck—Espeon ex",
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
-      "suggestedMaxPrice" : 249.99,
-      "tcin" : "1012850570"
+      "suggestedMaxPrice" : 24.99,
+      "tcin" : "1010892075"
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1012850572",
-      "kind" : "Ultra-Premium Collection",
-      "name" : "30th Celebration Ultra-Premium Collection- Night",
+      "id" : "target-1010892071",
+      "kind" : "Battle Deck",
+      "name" : "30th Celebration Battle Deck—Umbreon ex",
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
-      "suggestedMaxPrice" : 249.99,
-      "tcin" : "1012850572"
+      "suggestedMaxPrice" : 24.99,
+      "tcin" : "1010892071"
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1012663804",
-      "kind" : "Premium Collection",
-      "name" : "30th Celebration Ditto Premium Collection",
+      "id" : "target-1010892074",
+      "kind" : "Binder Collection",
+      "name" : "30th Celebration Binder Collection",
+      "notes" : "When checked on 2026-11-07 the page showed Add to cart (no out-of-stock label).",
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
-      "suggestedMaxPrice" : 49.99,
-      "tcin" : "1012663804"
+      "suggestedMaxPrice" : 39.99,
+      "tcin" : "1010892074"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011407490",
+      "kind" : "Booster Bundle Box",
+      "name" : "30th Celebration Booster Bundle Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 31.99,
+      "tcin" : "1011407490"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892070",
+      "kind" : "Collection",
+      "name" : "30th Celebration Knock Out Collection",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 11.99,
+      "tcin" : "1010892070"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892076",
+      "kind" : "Elite Trainer Box",
+      "name" : "30th Celebration Elite Trainer Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 69.99,
+      "tcin" : "1010892076"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892065",
+      "kind" : "ex Box",
+      "name" : "30th Celebration Greninja ex Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892065"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892068",
+      "kind" : "ex Box",
+      "name" : "30th Celebration Sylveon ex Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892068"
     },
     {
       "addedAt" : "2026-11-08",
@@ -57,25 +113,113 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1010892076",
-      "kind" : "Elite Trainer Box",
-      "name" : "30th Celebration Elite Trainer Box",
+      "id" : "target-1012422107",
+      "kind" : "Mini Tin",
+      "name" : "30th Celebration Mini Tin- Styles May Vary",
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
-      "suggestedMaxPrice" : 69.99,
-      "tcin" : "1010892076"
+      "suggestedMaxPrice" : 12.99,
+      "tcin" : "1012422107"
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1012793604",
-      "kind" : "Elite Trainer Box",
-      "name" : "Mega Evolution— Delta Reign Elite Trainer Box",
+      "id" : "target-1010892067",
+      "kind" : "Poster Collection",
+      "name" : "30th Celebration Poster Collection",
       "retailer" : "target",
-      "set" : "Mega Evolution: Delta Reign",
+      "set" : "30th Celebration",
       "status" : "active",
-      "suggestedMaxPrice" : 59.99,
-      "tcin" : "1012793604"
+      "suggestedMaxPrice" : 19.99,
+      "tcin" : "1010892067"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012663804",
+      "kind" : "Premium Collection",
+      "name" : "30th Celebration Ditto Premium Collection",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 49.99,
+      "tcin" : "1012663804"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892078",
+      "kind" : "Tech Sticker Collection",
+      "name" : "30th Celebration Tech Sticker Collection (Lucario or Alolan Exeggutor)- Styles May Vary",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 19.99,
+      "tcin" : "1010892078"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892069",
+      "kind" : "Tin",
+      "name" : "30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892069"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012850570",
+      "kind" : "Ultra-Premium Collection",
+      "name" : "30th Celebration Ultra-Premium Collection- Day",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 249.99,
+      "tcin" : "1012850570"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012850572",
+      "kind" : "Ultra-Premium Collection",
+      "name" : "30th Celebration Ultra-Premium Collection- Night",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 249.99,
+      "tcin" : "1012850572"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95225595",
+      "kind" : "Collection",
+      "name" : "First Partner Illustration Collection Series 1",
+      "retailer" : "target",
+      "set" : "First Partner Illustration Collection",
+      "status" : "active",
+      "suggestedMaxPrice" : 17.99,
+      "tcin" : "95225595"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011960739",
+      "kind" : "Collection",
+      "name" : "First Partner Illustration Collection—Series 3",
+      "retailer" : "target",
+      "set" : "First Partner Illustration Collection",
+      "status" : "active",
+      "suggestedMaxPrice" : 17.99,
+      "tcin" : "1011960739"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95120834",
+      "kind" : "Booster Bundle",
+      "name" : "Mega Evolution Ascended Heroes Booster Bundle",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "suggestedMaxPrice" : 31.99,
+      "tcin" : "95120834"
     },
     {
       "addedAt" : "2026-11-08",
@@ -90,14 +234,94 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1013166573",
-      "kind" : "Three-Booster Blister",
-      "name" : "Mega Evolution— Delta Reign Three-Booster Blister",
+      "id" : "target-95163305",
+      "kind" : "ex Box",
+      "name" : "Mega Evolution—Ascended Heroes Mega Meganium ex Box",
+      "notes" : "Price not read yet.",
       "retailer" : "target",
-      "set" : "Mega Evolution: Delta Reign",
+      "set" : "Mega Evolution: Ascended Heroes",
       "status" : "active",
-      "suggestedMaxPrice" : 14.99,
-      "tcin" : "1013166573"
+      "tcin" : "95163305"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95093989",
+      "kind" : "Pin Collection",
+      "name" : "Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection",
+      "notes" : "When checked on 2026-11-07 the page showed Add to cart (no out-of-stock label).",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "95093989"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1007935778",
+      "kind" : "Tech Sticker",
+      "name" : "Mega Evolution S2.5 Ascended Heroes Tech Sticker - Charmander",
+      "notes" : "Target lists $19.99 when purchased online.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "suggestedMaxPrice" : 19.99,
+      "tcin" : "1007935778"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95120822",
+      "kind" : "Tech Sticker Collection",
+      "name" : "Mega Evolution Ascended Heroes Tech Sticker Collection Gastly",
+      "notes" : "Target lists $19.99 when purchased online.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "suggestedMaxPrice" : 19.99,
+      "tcin" : "95120822"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012644667",
+      "kind" : "Tin",
+      "name" : "Mega Evolution— Ascended Heroes Tin Mega Emboar ex",
+      "notes" : "Name taken from the link; page and price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "tcin" : "1012644667"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012644666",
+      "kind" : "Tin",
+      "name" : "Mega Evolution— Ascended Heroes Tin Mega Feraligatr ex",
+      "notes" : "Name taken from the link; page and price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "tcin" : "1012644666"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012644665",
+      "kind" : "Tin",
+      "name" : "Mega Evolution— Ascended Heroes Tin Mega Meganium ex",
+      "notes" : "Name taken from the link; page and price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "tcin" : "1012644665"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95298172",
+      "kind" : "Booster Bundle",
+      "name" : "Mega Evolution Chaos Rising Booster Bundle",
+      "notes" : "Price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Chaos Rising",
+      "status" : "active",
+      "tcin" : "95298172"
     },
     {
       "addedAt" : "2026-11-08",
@@ -109,6 +333,94 @@
       "status" : "active",
       "suggestedMaxPrice" : 179.99,
       "tcin" : "1013166576"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012793604",
+      "kind" : "Elite Trainer Box",
+      "name" : "Mega Evolution— Delta Reign Elite Trainer Box",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Delta Reign",
+      "status" : "active",
+      "suggestedMaxPrice" : 59.99,
+      "tcin" : "1012793604"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1013166573",
+      "kind" : "Three-Booster Blister",
+      "name" : "Mega Evolution— Delta Reign Three-Booster Blister",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Delta Reign",
+      "status" : "active",
+      "suggestedMaxPrice" : 14.99,
+      "tcin" : "1013166573"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95230447",
+      "kind" : "Booster Bundle",
+      "name" : "Mega Evolution Perfect Order Booster Bundle",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Perfect Order",
+      "status" : "active",
+      "suggestedMaxPrice" : 31.99,
+      "tcin" : "95230447"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95230445",
+      "kind" : "Elite Trainer Box",
+      "name" : "Mega Evolution Perfect Order Elite Trainer Box",
+      "notes" : "Name taken from the link; page and price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Perfect Order",
+      "status" : "active",
+      "tcin" : "95230445"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95230446",
+      "kind" : "Three-Booster Blister",
+      "name" : "Mega Evolution Perfect Order 3-Booster Blister",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Perfect Order",
+      "status" : "active",
+      "suggestedMaxPrice" : 14.99,
+      "tcin" : "95230446"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011483414",
+      "kind" : "Booster Bundle",
+      "name" : "Mega Evolution Pitch Black Booster Bundle",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Pitch Black",
+      "status" : "active",
+      "suggestedMaxPrice" : 31.99,
+      "tcin" : "1011483414"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011483413",
+      "kind" : "Booster Display",
+      "name" : "Mega Evolution Pitch Black Booster Display",
+      "notes" : "Price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Pitch Black",
+      "status" : "active",
+      "tcin" : "1011483413"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011483406",
+      "kind" : "Elite Trainer Box",
+      "name" : "Mega Evolution Pitch Black Elite Trainer Box",
+      "notes" : "Price not read yet.",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Pitch Black",
+      "status" : "active",
+      "tcin" : "1011483406"
     },
     {
       "addedAt" : "2026-11-08",
@@ -124,113 +436,14 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-1011407490",
-      "kind" : "Booster Bundle Box",
-      "name" : "30th Celebration Booster Bundle Box",
+      "id" : "target-1012055696",
+      "kind" : "Super Premium Collection",
+      "name" : "Prismatic Evolutions Super Premium Collection",
+      "notes" : "Name taken from the link; page and price not read yet.",
       "retailer" : "target",
-      "set" : "30th Celebration",
+      "set" : "Scarlet & Violet: Prismatic Evolutions",
       "status" : "active",
-      "suggestedMaxPrice" : 31.99,
-      "tcin" : "1011407490"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892071",
-      "kind" : "Battle Deck",
-      "name" : "30th Celebration Battle Deck—Umbreon ex",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 24.99,
-      "tcin" : "1010892071"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892075",
-      "kind" : "Battle Deck",
-      "name" : "30th Celebration Battle Deck—Espeon ex",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 24.99,
-      "tcin" : "1010892075"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1012422107",
-      "kind" : "Mini Tin",
-      "name" : "30th Celebration Mini Tin- Styles May Vary",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 12.99,
-      "tcin" : "1012422107"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892070",
-      "kind" : "Collection",
-      "name" : "30th Celebration Knock Out Collection",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 11.99,
-      "tcin" : "1010892070"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892065",
-      "kind" : "ex Box",
-      "name" : "30th Celebration Greninja ex Box",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 29.99,
-      "tcin" : "1010892065"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892067",
-      "kind" : "Poster Collection",
-      "name" : "30th Celebration Poster Collection",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 19.99,
-      "tcin" : "1010892067"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892068",
-      "kind" : "ex Box",
-      "name" : "30th Celebration Sylveon ex Box",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 29.99,
-      "tcin" : "1010892068"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1010892069",
-      "kind" : "Tin",
-      "name" : "30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
-      "retailer" : "target",
-      "set" : "30th Celebration",
-      "status" : "active",
-      "suggestedMaxPrice" : 29.99,
-      "tcin" : "1010892069"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1011960739",
-      "kind" : "Collection",
-      "name" : "First Partner Illustration Collection—Series 3",
-      "retailer" : "target",
-      "set" : "First Partner Illustration Collection",
-      "status" : "active",
-      "suggestedMaxPrice" : 17.99,
-      "tcin" : "1011960739"
+      "tcin" : "1012055696"
     },
     {
       "addedAt" : "2026-11-08",
@@ -251,9 +464,19 @@
       "status" : "active",
       "suggestedMaxPrice" : 34.99,
       "tcin" : "94411686"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95138474",
+      "kind" : "Tin",
+      "name" : "Mega Charizard Y Tin",
+      "notes" : "Name taken from the link; page and price not read yet.",
+      "retailer" : "target",
+      "status" : "active",
+      "tcin" : "95138474"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T01:27:05Z",
-  "version" : 4
+  "updatedAt" : "2026-11-08T01:38:34Z",
+  "version" : 5
 }
