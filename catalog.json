@@ -1,0 +1,87 @@
+{
+  "entries" : [
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012850570",
+      "kind" : "Ultra-Premium Collection",
+      "name" : "30th Celebration Ultra-Premium Collection- Day",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1012850570"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012850572",
+      "kind" : "Ultra-Premium Collection",
+      "name" : "30th Celebration Ultra-Premium Collection- Night",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1012850572"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012663804",
+      "kind" : "Premium Collection",
+      "name" : "30th Celebration Ditto Premium Collection",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1012663804"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012793603",
+      "kind" : "Figure Collection",
+      "name" : "30th Celebration Figure Collection- Mew",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1012793603"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012850573",
+      "kind" : "Figure Collection",
+      "name" : "30th Celebration Figure Collection- Mewtwo",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1012850573"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892076",
+      "kind" : "Elite Trainer Box",
+      "name" : "30th Celebration Elite Trainer Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "tcin" : "1010892076"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012793604",
+      "kind" : "Elite Trainer Box",
+      "name" : "Mega Evolution— Delta Reign Elite Trainer Box",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Delta Reign",
+      "status" : "active",
+      "tcin" : "1012793604"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-95082118",
+      "kind" : "Elite Trainer Box",
+      "name" : "Mega Evolution— Ascended Heroes Elite Trainer Box",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Ascended Heroes",
+      "status" : "active",
+      "tcin" : "95082118"
+    }
+  ],
+  "schema" : 1,
+  "updatedAt" : "2026-11-08T00:33:10Z",
+  "version" : 2
+}
