@@ -87,9 +87,173 @@
       "status" : "active",
       "suggestedMaxPrice" : 59.99,
       "tcin" : "95082118"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1013166573",
+      "kind" : "Three-Booster Blister",
+      "name" : "Mega Evolution— Delta Reign Three-Booster Blister",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Delta Reign",
+      "status" : "active",
+      "suggestedMaxPrice" : 14.99,
+      "tcin" : "1013166573"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1013166576",
+      "kind" : "Booster Display",
+      "name" : "Mega Evolution— Delta Reign Booster Display",
+      "retailer" : "target",
+      "set" : "Mega Evolution: Delta Reign",
+      "status" : "active",
+      "suggestedMaxPrice" : 179.99,
+      "tcin" : "1013166576"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-94300082",
+      "kind" : "Three-Booster Blister",
+      "name" : "Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan",
+      "notes" : "Sold through a drawing on Target's page (sign-in required). You enter there; auto-cart doesn't apply.",
+      "retailer" : "target",
+      "set" : "Scarlet & Violet: Destined Rivals",
+      "status" : "active",
+      "suggestedMaxPrice" : 14.99,
+      "tcin" : "94300082"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011407490",
+      "kind" : "Booster Bundle Box",
+      "name" : "30th Celebration Booster Bundle Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 31.99,
+      "tcin" : "1011407490"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892071",
+      "kind" : "Battle Deck",
+      "name" : "30th Celebration Battle Deck—Umbreon ex",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 24.99,
+      "tcin" : "1010892071"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892075",
+      "kind" : "Battle Deck",
+      "name" : "30th Celebration Battle Deck—Espeon ex",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 24.99,
+      "tcin" : "1010892075"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1012422107",
+      "kind" : "Mini Tin",
+      "name" : "30th Celebration Mini Tin- Styles May Vary",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 12.99,
+      "tcin" : "1012422107"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892070",
+      "kind" : "Collection",
+      "name" : "30th Celebration Knock Out Collection",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 11.99,
+      "tcin" : "1010892070"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892065",
+      "kind" : "ex Box",
+      "name" : "30th Celebration Greninja ex Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892065"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892067",
+      "kind" : "Poster Collection",
+      "name" : "30th Celebration Poster Collection",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 19.99,
+      "tcin" : "1010892067"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892068",
+      "kind" : "ex Box",
+      "name" : "30th Celebration Sylveon ex Box",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892068"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1010892069",
+      "kind" : "Tin",
+      "name" : "30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
+      "retailer" : "target",
+      "set" : "30th Celebration",
+      "status" : "active",
+      "suggestedMaxPrice" : 29.99,
+      "tcin" : "1010892069"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011960739",
+      "kind" : "Collection",
+      "name" : "First Partner Illustration Collection—Series 3",
+      "retailer" : "target",
+      "set" : "First Partner Illustration Collection",
+      "status" : "active",
+      "suggestedMaxPrice" : 17.99,
+      "tcin" : "1011960739"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-1011385025",
+      "kind" : "ex Box",
+      "name" : "Hop’s Zacian ex Box",
+      "retailer" : "target",
+      "status" : "active",
+      "suggestedMaxPrice" : 24.99,
+      "tcin" : "1011385025"
+    },
+    {
+      "addedAt" : "2026-11-08",
+      "id" : "target-94411686",
+      "kind" : "Special Collection",
+      "name" : "Charizard ex Special Collection",
+      "retailer" : "target",
+      "status" : "active",
+      "suggestedMaxPrice" : 34.99,
+      "tcin" : "94411686"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T00:58:06Z",
-  "version" : 3
+  "updatedAt" : "2026-11-08T01:27:05Z",
+  "version" : 4
 }
