@@ -8,6 +8,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 249.99,
       "tcin" : "1012850570"
     },
     {
@@ -18,6 +19,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 249.99,
       "tcin" : "1012850572"
     },
     {
@@ -28,6 +30,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 49.99,
       "tcin" : "1012663804"
     },
     {
@@ -38,6 +41,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 39.99,
       "tcin" : "1012793603"
     },
     {
@@ -48,6 +52,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 39.99,
       "tcin" : "1012850573"
     },
     {
@@ -58,6 +63,7 @@
       "retailer" : "target",
       "set" : "30th Celebration",
       "status" : "active",
+      "suggestedMaxPrice" : 69.99,
       "tcin" : "1010892076"
     },
     {
@@ -68,6 +74,7 @@
       "retailer" : "target",
       "set" : "Mega Evolution: Delta Reign",
       "status" : "active",
+      "suggestedMaxPrice" : 59.99,
       "tcin" : "1012793604"
     },
     {
@@ -78,10 +85,11 @@
       "retailer" : "target",
       "set" : "Mega Evolution: Ascended Heroes",
       "status" : "active",
+      "suggestedMaxPrice" : 59.99,
       "tcin" : "95082118"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T00:33:10Z",
-  "version" : 2
+  "updatedAt" : "2026-11-08T00:58:06Z",
+  "version" : 3
 }
