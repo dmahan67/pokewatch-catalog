@@ -26,6 +26,7 @@ The product list the PokeWatch app downloads. It's a static file, so there is no
      "status": "active"
    }
    ```
+   `imageURL` is optional: the product photo, a plain https link on the retailer's own image server (for Target, the `og:image` address in the product page).
    `tcin` is the number in a Target link (`/A-1012850570`). `suggestedMaxPrice` is optional and only a suggestion. Set `"status": "retired"` to hide an item instead of deleting it.
 2. From the PokeWatch project folder on your Mac, run `scripts/catalog build`. It validates the file, raises the version, signs it with your private key and writes `catalog.signed.json`.
 3. Commit and push both `catalog.json` and `catalog.signed.json`. The app picks up the change the next time it opens (GitHub can take a few minutes to serve the new file).
