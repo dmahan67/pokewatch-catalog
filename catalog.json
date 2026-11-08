@@ -254,44 +254,6 @@
     },
     {
       "addedAt" : "2026-11-08",
-      "id" : "target-95093989",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_4a710abd-408e-430b-b6a8-45dfc7811a2c",
-      "kind" : "Pin Collection",
-      "name" : "Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "suggestedMaxPrice" : 29.99,
-      "tcin" : "95093989"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1007935778",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_0c8fa752-b4cd-495f-be91-cc59011f406d",
-      "kind" : "Tech Sticker",
-      "name" : "Mega Evolution S2.5 Ascended Heroes Tech Sticker - Charmander",
-      "notes" : "Target lists $19.99 when purchased online.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "suggestedMaxPrice" : 19.99,
-      "tcin" : "1007935778"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-95120822",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_321c8973-580d-4733-b7fe-4f4ccd65bd9b",
-      "kind" : "Tech Sticker Collection",
-      "name" : "Mega Evolution Ascended Heroes Tech Sticker Collection Gastly",
-      "notes" : "Target lists $19.99 when purchased online.",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Ascended Heroes",
-      "status" : "active",
-      "suggestedMaxPrice" : 19.99,
-      "tcin" : "95120822"
-    },
-    {
-      "addedAt" : "2026-11-08",
       "id" : "target-1013166576",
       "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_5c37cdaf-4aba-4d9f-a0a2-a7cdb408c37a",
       "kind" : "Booster Display",
@@ -325,80 +287,9 @@
       "status" : "active",
       "suggestedMaxPrice" : 14.99,
       "tcin" : "1013166573"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-95230447",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_add75f83-a4e4-44ed-b284-77b0dfb93cee",
-      "kind" : "Booster Bundle",
-      "name" : "Mega Evolution Perfect Order Booster Bundle",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Perfect Order",
-      "status" : "active",
-      "suggestedMaxPrice" : 31.99,
-      "tcin" : "95230447"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-95230446",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_709d00c5-cb92-4ec6-a04d-14990c148131",
-      "kind" : "Three-Booster Blister",
-      "name" : "Mega Evolution Perfect Order 3-Booster Blister",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Perfect Order",
-      "status" : "active",
-      "suggestedMaxPrice" : 14.99,
-      "tcin" : "95230446"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1011483414",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_ad499d78-6ba6-4abc-a993-30cc3f5776d3",
-      "kind" : "Booster Bundle",
-      "name" : "Mega Evolution Pitch Black Booster Bundle",
-      "retailer" : "target",
-      "set" : "Mega Evolution: Pitch Black",
-      "status" : "active",
-      "suggestedMaxPrice" : 31.99,
-      "tcin" : "1011483414"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-94300082",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_21d936ca-daf6-49c9-aa33-e0213ed1d004",
-      "kind" : "Three-Booster Blister",
-      "name" : "Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan",
-      "notes" : "Sold through a drawing on Target's page (sign-in required). You enter there; auto-cart doesn't apply.",
-      "retailer" : "target",
-      "set" : "Scarlet & Violet: Destined Rivals",
-      "status" : "active",
-      "suggestedMaxPrice" : 14.99,
-      "tcin" : "94300082"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-1011385025",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_848e53cc-37fd-4917-a69d-d07d4946222d",
-      "kind" : "ex Box",
-      "name" : "Hop’s Zacian ex Box",
-      "retailer" : "target",
-      "status" : "active",
-      "suggestedMaxPrice" : 24.99,
-      "tcin" : "1011385025"
-    },
-    {
-      "addedAt" : "2026-11-08",
-      "id" : "target-94411686",
-      "imageURL" : "https://target.scene7.com/is/image/Target/GUEST_0d7b6cae-c221-4da1-966f-c5629d57a965",
-      "kind" : "Special Collection",
-      "name" : "Charizard ex Special Collection",
-      "retailer" : "target",
-      "status" : "active",
-      "suggestedMaxPrice" : 34.99,
-      "tcin" : "94411686"
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-08T04:11:47Z",
-  "version" : 8
+  "updatedAt" : "2026-11-08T09:06:17Z",
+  "version" : 9
 }
